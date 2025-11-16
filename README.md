@@ -21,7 +21,7 @@ A Python script that automatically monitors the OpenAI Status Page for new incid
    
 ## Usage
 
-### Basic Usage (60-second poll interval)ash
+### Basic Usage (60-second poll interval)
 python status_tracker.pyor on Windows:h
 py status_tracker.py### Custom Poll Interval
 python status_tracker.py 30This checks every 30 seconds (minimum: 10 seconds)
